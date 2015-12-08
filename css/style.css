@@ -9,6 +9,11 @@ body {
     margin: 0 auto;
     min-width: 37.5rem;
 }
+.top-navigation {
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+}
 .top-navigation .logo {
     height: 4.375rem;
 }
